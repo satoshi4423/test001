@@ -1,0 +1,9 @@
+
+
+
+git clone ssh adress
+
+git add ファイル名　｜ -A
+git status //sansyou
+git commit -m "write reazon" 
+git push   |git push origin main(branch名） origin リモートブランチの事？
